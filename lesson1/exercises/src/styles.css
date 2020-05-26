@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+/* body { */
+    /* background-image: url('https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3c52f06f-952b-4208-8949-ddd0343b0c34/brad3.jpg'); */
+    /* background-size: cover; */
+/* } */
+body {
+    background-image: url('https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3c52f06f-952b-4208-8949-ddd0343b0c34/brad3.jpg');
+    background-size: cover;
+
+  }
